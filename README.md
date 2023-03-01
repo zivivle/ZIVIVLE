@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=H1!%20I`m%10SungKyoung&fontSize=60)
 
 
 
