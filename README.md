@@ -2,7 +2,7 @@
 <p>
   <img src="https://img.shields.io/badge/zivivle@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
-<h5>Hi! Welcome, I`m Front-end Starter 👼🏻</h5>
+<h2>Hi! Welcome, I`m Front-end Starter 👼🏻</h2>
 
 <h2>Skills✌️</h2>
 
