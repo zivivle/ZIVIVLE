@@ -2,12 +2,12 @@
 <p>
   <img src="https://img.shields.io/badge/zivivle@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
-<h2>Hi! Welcome, I`m Front-end Starter 👼🏻</h2>
+<h2>Hi! Im Zoey, Front-end Developer </h2>
 
-<h2>Skills✌️</h2>
+<h2>Skills</h2>
 
 
-<h7>Studying Languages</h7>
+<h7>Languages</h7>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
