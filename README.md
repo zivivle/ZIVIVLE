@@ -2,8 +2,9 @@
 
 <h2>Hi! Im Zoey, Front-end Developer </h2>
 
-<h2>Skills</h2>
+[Velog](https://velog.io/@zivivle)
 
+<h2>Skills</h2>
 
 <h7>Languages</h7>
 <p>
