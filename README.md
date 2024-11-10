@@ -1,6 +1,6 @@
 
 
-<h2>Hi! Im Zoey, Front-end Developer </h2>
+<h2>Hi! Im Zoey, Frontend Developer </h2>
 
 [Velog](https://velog.io/@zivivle)
 
