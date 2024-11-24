@@ -21,5 +21,6 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 </p>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{zivivle}?pet-id=1" width="1800" height="300"/>
+</a>
